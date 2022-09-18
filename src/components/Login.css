@@ -1,0 +1,19 @@
+.login-logo {
+  position: absolute;
+  left: 4%;
+  top: 4vh;
+}
+
+.login-logo img {
+  width: 5em;
+  height: 5em;
+}
+
+.login-content {
+  padding: 1rem;
+}
+
+.imgBox img {
+  width: 40px !important;
+  height: 40px !important;
+}

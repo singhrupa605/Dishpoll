@@ -1,0 +1,13 @@
+.ranking {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.elems {
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.link {
+  text-decoration: none;
+}

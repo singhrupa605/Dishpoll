@@ -1,0 +1,14 @@
+.card{
+    height: 100% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+.cardaction{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

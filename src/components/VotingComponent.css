@@ -1,0 +1,19 @@
+.voting-stack
+{
+  display : flex;
+  flex-direction : column;
+  align-items : center;
+  justify-content: center;
+  padding:0.5rem;
+  background-color: #ECF3C6;
+  border-radius: 10px;
+  border: 1px solid #b5c994;
+
+}
+
+.actions
+{
+  display : flex;
+  justify-content : space-between;
+  flex-wrap:wrap;
+}
